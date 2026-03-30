@@ -29,7 +29,7 @@ structuré, reproductible et partageable.
 ## Structure du projet
 
 ```
-data-quality-checker/
+Automatisation-de-controles-de-donnees/
 │
 ├── data/
 │   ├── sample_clean.csv       # Jeu de données sans anomalie
