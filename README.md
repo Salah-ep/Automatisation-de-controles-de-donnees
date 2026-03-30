@@ -1,4 +1,5 @@
-# Data Quality Checker
+# Automatisation de controles de donnees
+
 
 Pipeline Python d'automatisation des contrôles qualité sur des fichiers de données.
 Produit un score de qualité (0–100) et un rapport HTML auto-généré.
