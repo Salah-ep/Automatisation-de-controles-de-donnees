@@ -1,0 +1,17 @@
+id,nom,prenom,email,age,salaire,code_postal,date_embauche
+1,Martin,Alice,alice.martin@example.com,32,42000,75001,2021-03-15
+2,Dupont,Bruno,bruno.dupont@example.com,45,55000,69002,2019-07-01
+3,Leroy,Clara,clara.leroy@example.com,28,38000,13001,2022-01-10
+4,Bernard,David,david.bernard@example.com,51,61000,31000,2017-11-20
+5,Petit,Emma,emma.petit@example.com,36,47000,44000,2020-06-05
+2,Dupont,Bruno,bruno.dupont@example.com,45,55000,69002,2019-07-01
+6,Robert,Fabien,fabien.robert@example.com,29,39500,59000,2023-02-14
+7,Richard,Grace,grace.richard@example.com,42,53000,67000,2018-09-30
+8,Simon,Hugo,hugo.simon@example.com,,50000,76000,2020-04-22
+9,Laurent,Inès,,55,68000,,2015-12-01
+10,Michel,Jules,jules.michel@example.com,31,41000,69001,2021-08-17
+11,Moreau,Karine,karine-moreau-email-invalide,27,,75008,2023-05-01
+12,Fontaine,Luc,luc.fontaine@example.com,-5,39000,75009,2022-11-30
+13,Garnier,Marie,marie.garnier@example.com,34,999999,75010,2021-07-19
+14,,Nicolas,nicolas@example.com,40,45000,75011,2020-03-03
+15,Chevalier,Olivia,olivia.chevalier@example.com,38,48000,XXXXX,2019-08-14
