@@ -53,8 +53,8 @@ data-quality-checker/
 
 ```bash
 # Cloner le projet
-git clone https://github.com/ton-compte/data-quality-checker.git
-cd data-quality-checker
+git clone https://github.com/Salah-ep/Automatisation-de-controles-de-donnees.git
+cd Automatisation-de-controles-de-donnees
 
 # Créer un environnement virtuel
 python -m venv venv
